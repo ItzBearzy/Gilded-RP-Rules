@@ -44,22 +44,22 @@
 # Roleplay over Gunplay:
 
 ## Low-Tier Initiation is RDM
-###### All "low-tier initiation" scenes, defined as drawing weapons with minimal or no dialogue or interaction, will be classified as RDM (Random Deathmatch). Gunplay should not be the first course of action in conflicts. Roleplay must come before any escalation to violence.
+#### All "low-tier initiation" scenes, defined as drawing weapons with minimal or no dialogue or interaction, will be classified as RDM (Random Deathmatch). Gunplay should not be the first course of action in conflicts. Roleplay must come before any escalation to violence.
 
 ## Story-Driven Conflict
-###### Any conflict that leads to violence must have clear story development and meaningful interactions for all parties involved. Both sides of the scene should have an opportunity to engage in roleplay before any shots are fired.
+#### Any conflict that leads to violence must have clear story development and meaningful interactions for all parties involved. Both sides of the scene should have an opportunity to engage in roleplay before any shots are fired.
 
 ## Non-Violent Alternatives
-###### Players are expected to explore non-violent alternatives, such as negotiation, intimidation, or bribery, before resorting to gunplay. These methods should be exhausted or reasonably attempted as part of character interaction and conflict resolution.
+#### Players are expected to explore non-violent alternatives, such as negotiation, intimidation, or bribery, before resorting to gunplay. These methods should be exhausted or reasonably attempted as part of character interaction and conflict resolution.
 
 ## Emphasize Character Development
-###### Players should focus on deepening their character’s story through descriptive actions, emotes, and thoughtful dialogue. Combat should be a tool for storytelling, not a primary goal.
+#### Players should focus on deepening their character’s story through descriptive actions, emotes, and thoughtful dialogue. Combat should be a tool for storytelling, not a primary goal.
 
 ## Consequences for Violating this Rule
-###### Players who engage in low-tier initiation or fail to adhere to these guidelines may face consequences, including temporary or permanent bans, as this behavior disrupts the immersive roleplay environment.
+#### Players who engage in low-tier initiation or fail to adhere to these guidelines may face consequences, including temporary or permanent bans, as this behavior disrupts the immersive roleplay environment.
 
 
-*Roleplay over Rules - This means that you should maintain your RP to be as immersive as possible even in the face of rule breaks*
+- Roleplay over Rules - This means that you should maintain your RP to be as immersive as possible even in the face of rule breaks
 
 
 - Characters must be 18+, Players must be 18+.
@@ -1091,7 +1091,6 @@ Prison Break/Prison Transport Guidelines:
 - Keep the word count as low as possible! 
 
 ​
-
 # Erotic Roleplay and Consent:
 
 #### Keep it private!
