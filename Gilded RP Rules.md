@@ -44,30 +44,35 @@
 # Roleplay over Gunplay:
 
 ## Low-Tier Initiation is RDM
-- All "low-tier initiation" scenes, defined as drawing weapons with minimal or no dialogue or interaction, will be classified as RDM (Random Deathmatch). Gunplay should not be the first course of action in conflicts. Roleplay must come before any escalation to violence.
+###### All "low-tier initiation" scenes, defined as drawing weapons with minimal or no dialogue or interaction, will be classified as RDM (Random Deathmatch). Gunplay should not be the first course of action in conflicts. Roleplay must come before any escalation to violence.
 
 ## Story-Driven Conflict
-- Any conflict that leads to violence must have clear story development and meaningful interactions for all parties involved. Both sides of the scene should have an opportunity to engage in roleplay before any shots are fired.
+###### Any conflict that leads to violence must have clear story development and meaningful interactions for all parties involved. Both sides of the scene should have an opportunity to engage in roleplay before any shots are fired.
 
 ## Non-Violent Alternatives
-- Players are expected to explore non-violent alternatives, such as negotiation, intimidation, or bribery, before resorting to gunplay. These methods should be exhausted or reasonably attempted as part of character interaction and conflict resolution.
+###### Players are expected to explore non-violent alternatives, such as negotiation, intimidation, or bribery, before resorting to gunplay. These methods should be exhausted or reasonably attempted as part of character interaction and conflict resolution.
 
 ## Emphasize Character Development
-- Players should focus on deepening their character’s story through descriptive actions, emotes, and thoughtful dialogue. Combat should be a tool for storytelling, not a primary goal.
+###### Players should focus on deepening their character’s story through descriptive actions, emotes, and thoughtful dialogue. Combat should be a tool for storytelling, not a primary goal.
 
 ## Consequences for Violating this Rule
-- Players who engage in low-tier initiation or fail to adhere to these guidelines may face consequences, including temporary or permanent bans, as this behavior disrupts the immersive roleplay environment.
+###### Players who engage in low-tier initiation or fail to adhere to these guidelines may face consequences, including temporary or permanent bans, as this behavior disrupts the immersive roleplay environment.
 
 
-- Roleplay over Rules - This means that you should maintain your RP to be as immersive as possible even in the face of rule breaks.
+*Roleplay over Rules - This means that you should maintain your RP to be as immersive as possible even in the face of rule breaks*
+
 
 - Characters must be 18+, Players must be 18+.
  
+
 - Character Names must be realistic for the time period. Names are forbidden from being Historical Character names, Famous Names, Television/Movie Character names, or names relating to Meme Culture/Pop Culture. Names that also are a reference or combination to names falling into the aforementioned categories is also against the rules.
+
 
 - All names should strive to be unique and avoid having the same name as another active player. Having multiple “Jane Doe” for example leads to issues with our telegram system.
 
+
 - You must be in character on the server at all times. Roleplay through the encounters in front of you. If there is a rule break report it AFTER the scenario has completed. (This does not pertain to major rule breaks like hacking, racism, sexual abuse, or major harassment).
+
 
 - If you intend to engage in hostile RP (eg. robbing) it is HIGHLY RECOMMENDED that you record using Medal or some other platform in case your scene becomes involved in a ticket with a rule break in question.
 
@@ -76,16 +81,22 @@
 
 - Abide by the Discord TOS: https://discord.com/terms
 
+
 - BE KIND to staff and to each other in Discord and in Tickets.
+
 
 - Change your Discord name to have your Character’s First and Last name.
  
+
 - Don’t DM staff regarding rules or game related issues, open a ticket. Any advice given by staff in DMs is personal opinions, and not to be regarded as permission in any capacity if later brought into question.
  
+
 - Don't talk negatively about other servers and players.
+
 
 - No NSFW content (Not Safe For Work).
  
+
 - Players may disagree with staff, but MUST respect decisions when they are made and conduct conversation in a manner that shows respect.
 
  
@@ -1083,12 +1094,4 @@ Prison Break/Prison Transport Guidelines:
 
 # Erotic Roleplay and Consent:
 
-You must get consent from the party you plan to interact with for the purpose of Erotic Roleplay. Please get consent using /do before engaging in ERP of any sort. Please use the following guidelines when engaging in mature scenes:
-- ERP should be done in private places only.
-- Zero Tolerance for ERP in public. If forced upon a person, or as a way to goof off with friends for a few cheap laughs. Will be considered a FailRP rule break, resulting in an immediate 7 day ban or more.
-Example: 
-- /do [player1] looks into [player2]'s eyes as if asking for consent to go further.
-- /do [player2] nods and gives [player1] a kiss, consenting to more and letting [player1] lead
-Or
-- /do [player1] asks for consent to ERP
-- /do [player2] consents
+#### Keep it private!
