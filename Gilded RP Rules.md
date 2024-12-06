@@ -1,4 +1,4 @@
-Basic Terms Of Service
+# Basic Terms Of Service:
 
 - Personal insults and/or verbal attacks outside of specific role play situations and all forms of harassment are prohibited and will result in a ban.
 
@@ -9,7 +9,7 @@ Basic Terms Of Service
 - Gilded RP is set in an alternate universe from real life. In this universe slavery does not exist, thus any type of roleplay involving slavery is prohibited.
 
 
-Basic Community Policies:
+# Basic Community Policies:
 
 
 - Should disagreements or instances of rule-breaking occur in the game, all members should attempt to roleplay through them without breaking character. Once the scene is completed, members may then send in reports to staff. If the issue is urgent and must be dealt with immediately, such as a Zero Tolerance rule break, you may open a ticket to report the issue.
@@ -25,7 +25,7 @@ Basic Community Policies:
 - Suicide roleplay or self-harm roleplay of any kind is not tolerated and will result in a permanent ban.
 
 
-General Rules: 
+# General Rules: 
 
 - Our ruleset is intended to be clear while encouraging roleplay between players. If you suspect a rule to have been broken mid-scene, wait until the scene concludes then open a ticket.
 
@@ -39,7 +39,7 @@ General Rules:
 
 
 
-Roleplay over Gunplay:
+# Roleplay over Gunplay:
 
 - Low-Tier Initiation is RDM
 - All "low-tier initiation" scenes, defined as drawing weapons with minimal or no dialogue or interaction, will be classified as RDM (Random Deathmatch). Gunplay should not be the first course of action in conflicts. Roleplay must come before any escalation to violence.
@@ -71,7 +71,7 @@ Roleplay over Gunplay:
 - If you intend to engage in hostile RP (eg. robbing) it is HIGHLY RECOMMENDED that you record using Medal or some other platform in case your scene becomes involved in a ticket with a rule break in question.
 
  
-Discord Rules:
+# Discord Rules:
 
 - Abide by the Discord TOS: https://discord.com/terms
 
@@ -88,7 +88,7 @@ Discord Rules:
 - Players may disagree with staff, but MUST respect decisions when they are made and conduct conversation in a manner that shows respect.
 
  
-Zero Tolerance Rules: 
+# Zero Tolerance Rules: 
 
 - No coordinating IC events OOC. This can all be done IC. ANYTHING that would persuade your actions IC, including where you go, who you meet up with, what you are preparing to do is META.
 
@@ -114,7 +114,7 @@ Zero Tolerance Rules:
 - Child murder/torture, or even threats of such, are never allowed even when still in the womb. For more information, see “Pregnancy RP and Aging”
 
  
-Communication Standards:
+# Communication Standards:
 
  
 - We are an English-speaking server, you must be able to speak English to play here.
@@ -132,8 +132,8 @@ Communication Standards:
 - "Mute" players who wish to engage in hostile roleplay must have someone else verbally initiate a conflict or a robbery for them. They should also present hostile intent with emotes, /do commands, and other methods to show rising tension.
 
  
-Voice ID:
-Voice Identification Restrictions:
+# Voice ID:
+# Voice Identification Restrictions:
 
 
 - When a player is wearing a face covering, you are not allowed to identify them using their voice alone. The mask must be removed to reveal their face for voice identification to be valid.
@@ -145,7 +145,7 @@ Voice Identification Restrictions:
 - Always respect a player's identity claims, even if you have suspicions otherwise.
  
 
-Mask Usage Rules:
+# Mask Usage Rules:
 
 - Masks used for criminal activities should only be worn when intending to commit crimes or during large-scale criminal activities such as store and bank robberies, or other law-alerting actions.
 
@@ -156,7 +156,7 @@ Mask Usage Rules:
 - If you wear a mask that is a significant part of your character's identity, you open yourself up to being identified by that mask. This means other players can recognize your character through this distinctive mask.
  
 
-Multiple Characters Consideration:
+# Multiple Characters Consideration:
 
 - If a player is unmasked and insists they are not the person you think they are, respect their claim and move on.
  
@@ -164,12 +164,12 @@ Multiple Characters Consideration:
 - Keep in mind that not all players can change their voice. Players may want to roleplay multiple characters using the same voice. Respect their choice to portray different characters even if the voice sounds familiar.
  
 
-Historical Context:
+# Historical Context:
 
 - Consider the historical setting of the game. Most criminals in the 1900s sought infamy rather than anonymity. This should be reflected in the roleplay dynamics regarding masks and identification.
 
  
-Submitting a Ticket:
+# Submitting a Ticket:
 
 - Upon review of tickets, staff will take into consideration all accounts and weigh the effect it has on future roleplay. All conclusions are at staff's discretion. 
 
@@ -189,7 +189,7 @@ Submitting a Ticket:
 - Clips, or Video Recordings, are helpful to gaining context for tickets. Provide start to finish as best as possible. Edited clips, modified in an attempt to hide rule breaks or deceive staff during a ticket may result in clips being disregarded, or taken as implications towards rule breaks.
 
  
-Player Equipment
+# Player Equipment
 
 - Players are expected to not carry weapons beyond their means. Carry only what you can logically equip on your weapon wheel and leave the extras at home or in storage.
 
