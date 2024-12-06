@@ -8,7 +8,8 @@
  
 - Gilded RP is set in an alternate universe from real life. In this universe slavery does not exist, thus any type of roleplay involving slavery is prohibited.
 
-* Scroll down to view a video of someone reading the rules to you*
+
+*Scroll down to the bottom to view a video of someone reading the rules to you*
 
 # Basic Community Policies:
 
