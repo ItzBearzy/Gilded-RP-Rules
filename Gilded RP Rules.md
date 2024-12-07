@@ -11,6 +11,9 @@
 
 *Scroll down to the bottom to view a video of someone reading the rules to you*
 
+#### This ruleset is hosted on github and has a changelog here:
+https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
+
 # Basic Community Policies:
 
 
