@@ -23,7 +23,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - All weapons are lethal. This means that all weapon interactions (shooting, stabbing, throwing, etc.) have consequences and must be handled in character as if they are real. 
 
-- The utilization of glitches, exploits, hacks, or bugs for personal gain will result in disciplinary action. There is a zero tolerance for hacking, including but not limited to script/resource injection, and will result in a permanent ban. If you find a glitch or in-game exploit please notify the staff team via opening a ticket. Keep the economy in mind, if you are
+- The utilization of glitches, exploits, hacks, or bugs for personal gain will result in disciplinary action. There is a zero tolerance for hacking, including but not limited to script/resource injection, and will result in a permanent ban. If you find a glitch or in-game exploit please notify the staff team via opening a ticket.
 
 - Third party crosshairs are not allowed in duels
 
