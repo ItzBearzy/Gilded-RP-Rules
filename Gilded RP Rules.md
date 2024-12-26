@@ -1070,6 +1070,7 @@ Prison Break/Prison Transport Guidelines:
 
 - You must use a realistic-looking appearance. 
 
+- Characters with highly exaggerated or unrealistic facial or body proportions that could be perceived as trolling are not allowed. If you wish to create a character with unique or unconventional features, you must submit a ticket for approval beforehand.
 
 - Do not add scars in the makeup menu unless you actually RPd the injuries and events. 
 
