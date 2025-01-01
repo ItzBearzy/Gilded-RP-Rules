@@ -519,7 +519,8 @@ Here are some examples of RDM or Random DeathMatch:
 - Carrying more than 2 longarm class weapons voids protection from them being robbed. Stick to what you can realistically carry or risk losing them (Bows count as longarms)
 
 
-- During a robbery of any kind, there may only be ONE individual within the Criminal Group to check through pockets. This is to prevent taking more than half a stack or double robbing a victim. Designate the individual that looks through people’s pockets beforehand. There shouldn’t be multiple people looking through a victim’s pockets.
+- During a robbery of any kind, each character being robbed may only be searched by ONE individual within the Criminal Group. This is to prevent taking more than half a stack or double robbing a victim. 
+More than one player within said Criminal Group may commit robbery but they must ensure there aren't multiple people looking through a single victim's pockets.
 
 
 - Backpacks and handbags can be taken, including everything inside
