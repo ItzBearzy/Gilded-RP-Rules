@@ -976,7 +976,7 @@ Prison Break/Prison Transport Guidelines:
 - If someone has you hogtied and wants your “key” to your built door, you must open the door for them. 
  
 
-- Players are limited to One Business per character. You may not own multiple businesses and have managers run them.
+- Players are limited to One Business per player. You may not own multiple businesses and have managers run them.
 ​
 
 - Players are limited to One Home per Player. Alternate characters can live within homes, but players cannot own more than 1 home.
