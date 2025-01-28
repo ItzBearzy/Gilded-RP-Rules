@@ -985,6 +985,16 @@ Prison Break/Prison Transport Guidelines:
 - Multiple businesses may be owned by a family or a group, each with their own unique owners per business.
 
 
+
+# Multi Job Rules
+
+- You cannot have two jobs that earn a government paycheck, maximum 2 jobs per character
+
+
+- Do not complete your own supply chains, ie. blacksmiths should go to a carpenter for supplies instead of using multijob to craft both carpenter and blacksmith items.
+
+
+
 # Gilded RP Animal PED Rules:
 # General rules:
 
