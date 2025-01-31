@@ -75,7 +75,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - A conflict escalates naturally through roleplay before violence occurs (e.g., an argument turns into a physical fight, and only after further escalation does a gun get drawn and fired).
 
 
-- A player shoots in self-defense after another character threatens or initiates violence against them first, only whrn there is opportunity to do so (guns are lowered).
+- A player shoots in self-defense after another character threatens or initiates violence against them first, only when there is opportunity to do so (guns are lowered).
 
 
 ## Clarification on Gunplay:
