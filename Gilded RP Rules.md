@@ -46,20 +46,41 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 # Roleplay over Gunplay:
 
-### Low-Tier Initiation is RDM
-- All "low-tier initiation" scenes, defined as drawing weapons with minimal or no dialogue or interaction, will be classified as RDM (Random Deathmatch). Gunplay should not be the first course of action in conflicts. Roleplay must come before any escalation to violence.
+## Low-Tier Initiation is Considered RDM
 
-### Story-Driven Conflict
-- Any conflict that leads to violence must have clear story development and meaningful interactions for all parties involved. Both sides of the scene should have an opportunity to engage in roleplay before any shots are fired.
+- Any "low-tier initiation"—defined as shooting firearms or using weapons with force without meaningful dialogue or interaction—will be classified as RDM (Random Deathmatch).
 
-### Non-Violent Alternatives
-- Players are expected to explore non-violent alternatives, such as negotiation, intimidation, or bribery, before resorting to gunplay. These methods should be exhausted or reasonably attempted as part of character interaction and conflict resolution.
+## Examples of Low-Tier Initiation (RDM):
 
-### Emphasize Character Development
-- Players should focus on deepening their character’s story through descriptive actions, emotes, and thoughtful dialogue. Combat should be a tool for storytelling, not a primary goal.
+--A player walks up to someone and shoots them without prior roleplay.
 
-### Consequences for Violating this Rule
-- Players who engage in low-tier initiation or fail to adhere to these guidelines may face consequences, including temporary or permanent bans, as this behavior disrupts the immersive roleplay environment.
+
+- A player stabs another without speaking or giving any roleplay context.
+
+
+- A player fires at someone immediately after saying a single vague line like "You messed up" without further interaction.
+
+
+- A group ambushes another with weapons and opens fire without any verbal warning or attempt at roleplay.
+
+
+## What Is NOT Considered RDM:
+
+- A player draws their gun and aims it at another in a robbery, giving clear demands (e.g., "Hands up and don’t try anything, or you’ll regret it.").
+
+
+- A character uses a weapon to threaten or intimidate someone without firing (e.g., pressing a gun against someone’s back and saying, "Let’s take a walk.").
+
+
+- A conflict escalates naturally through roleplay before violence occurs (e.g., an argument turns into a physical fight, and only after further escalation does a gun get drawn and fired).
+
+
+- A player shoots in self-defense after another character threatens or initiates violence against them first, only whrn there is opportunity to do so (guns are lowered).
+
+
+## Clarification on Gunplay:
+
+- Gunplay should not be the first method of conflict resolution. Characters should attempt meaningful roleplay interactions before resorting to violence, ensuring depth in character interactions and storytelling.
 
 
 - Roleplay over Rules - This means that you should maintain your RP to be as immersive as possible even in the face of rule breaks
