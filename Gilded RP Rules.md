@@ -86,13 +86,15 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Roleplay over Rules - This means that you should maintain your RP to be as immersive as possible even in the face of rule breaks
 
 
+## Character Guidelines
+
 - Characters must be 18+, Players must be 18+.
  
 
 - Character Names must be realistic for the time period. Names are forbidden from being Historical Character names, Famous Names, Television/Movie Character names, or names relating to Meme Culture/Pop Culture. Names that also are a reference or combination to names falling into the aforementioned categories is also against the rules.
 
 
-- All names should strive to be unique and avoid having the same name as another active player. Having multiple “Jane Doe” for example leads to issues with our telegram system.
+- All names should strive to be unique and avoid having the same name as another active player.
 
 
 - You must be in character on the server at all times. Roleplay through the encounters in front of you. If there is a rule break report it AFTER the scenario has completed. (This does not pertain to major rule breaks like hacking, racism, sexual abuse, or major harassment).
