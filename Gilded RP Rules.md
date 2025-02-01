@@ -1015,6 +1015,8 @@ Prison Break/Prison Transport Guidelines:
 - Do not complete your own supply chains, ie. blacksmiths should go to a carpenter for supplies instead of using multijob to craft both carpenter and blacksmith items.
 
 
+- Players are not allowed to have more than one character in the same line of work.
+
 
 # Gilded RP Animal PED Rules:
 # General rules:
