@@ -958,7 +958,7 @@ Prison Break/Prison Transport Guidelines:
 - Do not break into Sisika to sell goods, perform jobs, or engage in similar activities. This is a maximum-security institution, and unannounced visitors will be treated as a serious security threat. Realistically, this would result in being shot or otherwise severely dealt with. This will be considered as a No Value for Life rulebreak.
 
 
-- Attacking unarmed Guards or Lawmen within Sisika without justification—such as self-defense or a valid roleplay scenario—will also be considered an NVL rulebreak. Sisika is a high-security prison, and any unwarranted aggression against officials inside its grounds is treated as an extreme disregard for life.
+- Attacking Guards or Lawmen within Sisika without justification—such as self-defense or a valid roleplay scenario—will also be considered an NVL rulebreak. Sisika is a high-security prison, and any unwarranted aggression against officials inside its grounds is treated as an extreme disregard for life.
 
 ​
 # Smuggling:
