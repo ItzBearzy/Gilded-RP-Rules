@@ -151,6 +151,9 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Child murder/torture, or even threats of such, are never allowed even when still in the womb. For more information, see “Pregnancy RP and Aging”
 
+
+- Using macros to fish, mine, craft, or anything else while AFK, or even while IC is powergaming. Do not do this. 
+
  
 # Communication Standards:
 
@@ -354,9 +357,6 @@ Exception: If the description mentions visible text or enscriptions (e.g., "Jane
 
 
 - Getting on a horse while handcuffed and riding off is powergaming.
-
-
-- Using macros to fish, mine, craft, or anything else while AFK, or even while IC is powergaming. Do not do this. 
 
 
 - Being AFK in an open area or on an interactable object is powergaming. If you need to leave to do something OOC, log out, or find a secure, out of the way hiding spot and return as soon as possible.
