@@ -1098,37 +1098,51 @@ Prison Break/Prison Transport Guidelines:
 
 # 3. Camp Limits & Item Restrictions
 
-    - Camps must remain simple, consisting of:
+    # Camps must remain simple, consisting of:
     - Tents (maximum of 4 per camp)
+
     - Basic camp-appropriate furniture (e.g., cots, campfire, chairs/benches)
+
     - One small (if necessary for flat ground, not more than 1ft off the ground if absolutely necessary)
+
     - 4 storage items
+
     - Lighting (within permitted limits, see Section 5)
+
     - One camp per person.
+
     - Maximum 20 items per camp (includes lighting, tents, storage, camp furniture, and decor).
+    
     - Beams can only support the underside of a foundation, NOT be placed above it.
 
 
 # 4. Storage & Lighting Limits
 
-Maximum 4 storage items per camp/property. Use Space Bar storage for businesses or private property if more is needed.
-Maximum 5 light-emitting objects per area or across the map.
-Each tent may have up to 2 light-emitting objects.
-Business owners may place up to 4 storage items inside their business.
+- Maximum 4 storage items per camp/property. Use Space Bar storage for businesses or private property if more is needed.
+
+- Maximum 5 light-emitting objects per area or across the map.
+
+- Each tent may have up to 2 light-emitting objects.
+
+- Business owners may place up to 4 storage items inside their business.
 
 
 # 5. Placement & Space Rules
 
-Camps must be spaced out, if an area is occupied, move elsewhere.
-Do not block access to pathways, roads, towns, camps, tents, entrances, exits, or any public or private area.
-Trespass signs are for private property only and cannot be used to claim a campground.
+- Camps must be spaced out, if an area is occupied, move elsewhere.
+
+- Do not block access to pathways, roads, towns, camps, tents, entrances, exits, or any public or private area.
+
+- Trespass signs are for private property only and cannot be used to claim a campground.
 
 
 # 6. Enforcement & Removal
 
-Unauthorized builds will be removed without warning.
-Camps and storage left inactive for 3 weeks will be removed.
-Items may be moved into a chest with a notice attached, but failure to act on the notice will result in demolition.
+- Unauthorized builds will be removed without warning.
+
+- Camps and storage left inactive for 3 weeks will be removed.
+
+- Items may be moved into a chest with a notice attached, but failure to act on the notice will result in demolition.
 
  
 # Appearance:
