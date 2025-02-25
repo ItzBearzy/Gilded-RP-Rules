@@ -1062,45 +1062,73 @@ Prison Break/Prison Transport Guidelines:
 
 
  
-# Building / Camp Rules:
+# BUILDING & CAMP RULES
 
-- Your builds using carpenter and blacksmith items need to fit into the natural red dead game world or they will be removed. Tents and campsites should look like actual campsites. No walls or Doors or other excessive extras should be added to a camp. If flat ground is needed, only 1 small or medium foundation may be used.
+- The Camping Authority will remove non-compliant camps or builds without warning.
 
-​
-- You are allowed one camp per person.
+- No refunds or reimbursement for lost items.
 
+- It is YOUR responsibility to follow these guidelines.
 
-- No giant fences surrounding properties or campsites.
+# 1. General Camp & Build Rules
 
+- Camps must fit into the Red Dead world: no treehouses, platform structures, or excessive builds.
 
-- No more than 4 storage items per camp/area.
+- Camps should be simple and realistic: tents, basic camp decor, 4 storage items, and lighting. That is the limit.
 
+- One small foundation is allowed if needed for flat ground, not more than 1ft off the ground if absolutely necessary.
 
-- A camp may consist of up to 4 tents in one area, maximum.
+- Fences, walls, roofing, and doors are banned outright for camps and towns unless permitted by staff.
 
-
-- Do not camp or build in areas considered "Wildlife Preserves" such as Big Valley, Historic sites, or areas where Legendary Hunts may occur. 
-
-
-- Camps may have a maximum of 3 light-emitting objects per tent.
+- No using objects to fake a roof, wall, or block tent entrances.
 
 
-- You can only place builds on property you own or tents in areas claimed as a camp.
+# 2. Restricted & Prohibited Build Areas
+
+- DO NOT camp or build in Wildlife Preserves, Historic Sites, or Legendary Hunt Areas.
+
+- Historic Sites = Ruins, burned-down buildings, pre-placed game camps, stone walls, or unique landmarks like the Giant Tree north of Blackwater or the tiny church in Lemoyne.
+
+- DO NOT build on cliffs, mountains, bodies of water, or create floating structures.
+
+- DO NOT build in towns, ONLY business owners may place up to 4 storage items inside their business.
+
+- DO NOT block public roads, pathways, entrances, exits, or access to any public or private area.
 
 
-- Avoid building in any town, clear it with staff via a ticket first. 
+# 3. Camp Limits & Item Restrictions
+
+    - Camps must remain simple, consisting of:
+    - Tents (maximum of 4 per camp)
+    - Basic camp-appropriate furniture (e.g., cots, campfire, chairs/benches)
+    - One small (if necessary for flat ground, not more than 1ft off the ground if absolutely necessary)
+    - 4 storage items
+    - Lighting (within permitted limits, see Section 5)
+    - One camp per person.
+    - Maximum 20 items per camp (includes lighting, tents, storage, camp furniture, and decor).
+    - Beams can only support the underside of a foundation, NOT be placed above it.
 
 
-- You cannot block public pathways, roads, or access to any area you do not own.
+# 4. Storage & Lighting Limits
+
+Maximum 4 storage items per camp/property. Use Space Bar storage for businesses or private property if more is needed.
+Maximum 5 light-emitting objects per area or across the map.
+Each tent may have up to 2 light-emitting objects.
+Business owners may place up to 4 storage items inside their business.
 
 
-- Do not place more than 10 light-emitting items on the map, or 10 within a given area also.
+# 5. Placement & Space Rules
+
+Camps must be spaced out, if an area is occupied, move elsewhere.
+Do not block access to pathways, roads, towns, camps, tents, entrances, exits, or any public or private area.
+Trespass signs are for private property only and cannot be used to claim a campground.
 
 
-- Any unauthorized player builds will be removed without warning. 
+# 6. Enforcement & Removal
 
-
-- Camps and Storage will be removed by the Housing Authorities without warning if left unused/inactive for 3 weeks.
+Unauthorized builds will be removed without warning.
+Camps and storage left inactive for 3 weeks will be removed.
+Items may be moved into a chest with a notice attached, but failure to act on the notice will result in demolition.
 
  
 # Appearance:
