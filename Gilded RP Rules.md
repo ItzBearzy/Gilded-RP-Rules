@@ -1023,6 +1023,21 @@ Prison Break/Prison Transport Guidelines:
 - Players are not allowed to have more than one character in the same line of work.
 
 
+# Tailor Mannequin Script Rules:
+
+- The tailor mannequin script enhances roleplay by allowing tailors to craft outfits. Use must prioritize immersion, historical accuracy, and meaningful roleplay.
+
+- Tailors must ensure outfits are period-appropriate, non-offensive, and immersion-friendly. **Nudist, sexually explicit, or inappropriate clothing (per No NSFW policy) is banned from distribution.** Violations may lead to loss of script access or privileges.
+
+- **Niche Clothing:** Items like belly dancer attire or unusual pieces (e.g., turtle shells, bloodied suits) are restricted to characters with relevant historical/roleplay context and require staff approval. Misuse is punishable.
+
+- **Restricted Items:** Black KKK hoods, nudist/inappropriate attire, and extreme immersion-breaking items are prohibited. Other restricted pieces require staff approval via ticket for specific use.
+
+- **Access:** Script is job-locked to tailors; higher ranks may access niche items with approval. It supplements, not replaces, the existing crafting system for small items.
+
+- **Roleplay:** Mid-scene Outfit changes need IC justification. Excessive use without context is Fail RP.
+
+
 # Gilded RP Animal PED Rules:
 # General rules:
 
@@ -1177,3 +1192,6 @@ Prison Break/Prison Transport Guidelines:
 # Erotic Roleplay and Consent:
 
 #### Keep it private!
+
+
+
