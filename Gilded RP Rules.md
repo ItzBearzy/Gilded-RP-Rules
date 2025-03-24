@@ -500,7 +500,9 @@ Here are some examples of RDM or Random DeathMatch:
 
 # Criminal Activity / Robberies Cont:
 
-- Criminals may not wear all-black clothing with 0 identifiable features while committing a crime. They must wear at least 1-3 identifiable features, whether a buckle, bandana, clothing item, gun, or horse and saddle. Failure to do so is an abuse of the voice ID rule and is a method of Powergaming always to win a situation so nobody may catch, or pursue you in retaliation for the crime.
+- Criminals must not wear completely black clothing with no identifiable features while committing crimes. They must have at least one to three clearly distinguishable features, such as a buckle, bandana, distinct clothing item, firearm, horse, or saddle.
+
+Failure to comply is a direct violation of the Voice ID rule and constitutes power-gaming, as it deliberately prevents identification, pursuit, or retaliation. This rule is strictly enforced, and violations will result in immediate consequences.
 
 - You cannot commit any crime that involves a Law Alert 30 minutes before or 15 minutes after restart.
 
