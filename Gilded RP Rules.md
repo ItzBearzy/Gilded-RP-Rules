@@ -532,18 +532,15 @@ Failure to comply is a direct violation of the Voice ID rule and constitutes pow
 
 
 - You can only take half of each item stack in someone's inventory. Single items can be taken.
+
+
+- You must leave any player you are robbing with a longarm and a sidearm
  
 
 - Do not rob new starting players of their starter money. If you were robbed of your starting cash, open a ticket.
 
 
 - You must demonstrate a clear hostile intent to rob an individual and give them a chance to react
-
-​
-- During a robbery, any player wearing 2 weapons in the long arm slots on their back can only have 1 long arm class weapon taken. Players of any type roaming with only 1 weapon in the long arm slots on their back are unable to have their single longarm class weapon taken from them
-
-
-- Carrying more than 2 longarm class weapons voids protection from them being robbed. Stick to what you can realistically carry or risk losing them (Bows count as longarms)
 
 
 - During a robbery of any kind, each character being robbed may only be searched by ONE individual within the Criminal Group. This is to prevent taking more than half a stack or double robbing a victim. More than one player within said Criminal Group may commit robbery but they must ensure there aren't multiple people looking through a single victim's pockets.
@@ -555,9 +552,6 @@ Failure to comply is a direct violation of the Voice ID rule and constitutes pow
 
 
 - You cannot take custom items (Eg. custom recipe books).
-
-
-- You can only take weapons that are visible on the player’s body, or classified as concealed carry firearms.
  
 
 - Players may conceal carry M1899’s or a Snub-nosed Schofield without the need for a gun belt.
@@ -634,13 +628,13 @@ Prison Break/Prison Transport Guidelines:
 # Wagon Robberies:
  
 ​
-- Robbing a wagon is allowed, even when no rider is visibly present. Wagon riders are expected to guard their wagons, or hire security if they feel it is warranted.
+- You must RP with the person driving the wagon to rob it, dont just rob wagons sitting around without providing RP
 
 
 - Wagons have no stack limits for robberies. Robbing the wagon means you forgo the robbery of the rider or passengers
 
 
-- Wagons can be stolen and ridden away, creating a chase. In a chase when the wagon owner, law, or vigilantes catch up, they must demand the wagon to stop, announcing themselves. If the wagon refuses to stop, gunplay is now live.
+- Wagons can be stolen and ridden away, creating a chase with the owner. In a chase when the wagon owner, law, or vigilantes catch up, they must demand the wagon to stop, announcing themselves. If the wagon refuses to stop, gunplay is now live.
 
  
 # NVL / Fear RP 
