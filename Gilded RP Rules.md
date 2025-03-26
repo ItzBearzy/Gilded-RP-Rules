@@ -534,13 +534,17 @@ Failure to comply is a direct violation of the Voice ID rule and constitutes pow
 - You can only take half of each item stack in someone's inventory. Single items can be taken.
 
 
-- You must leave any player you are robbing with at least one long gun(bows included) and one sidearm. Carrying more than one long arm and one side arm or two weapons of the same type opens you up to being robbed of all weapons.
+- You must leave any player you are robbing with at least one longarm (bows included) and one sidearm.
 
 
-- You can have one sidearm and one longarm, any more guns and it opens you up to being robbed of all weapons.
+- You can have one sidearm and one longarm protected, any more guns and it opens you up to being robbed of all weapons. Carrying more than two of the same weapon type opens you up to having all weapons being robbed.
 
 
-Example: Carrying a carcano and a Revolver and those guns can't be robbed. Carry a Carcano and two revolvers and all weapons can be robbed.
+Examples: 
+
+ - Carry a Carcano and a Revolver and those guns can't be robbed. 
+ - Carry a Carcano and two revolvers and all weapons can be robbed.
+ - Carry dual revolvers with no longarms, all weapons can be robbed.
  
 
 - Do not rob new starting players of their starter money. If you were robbed of your starting cash, open a ticket.
@@ -550,6 +554,7 @@ Example: Carrying a carcano and a Revolver and those guns can't be robbed. Carry
 
 
 - During a robbery of any kind, each character being robbed may only be searched by ONE individual within the Criminal Group. This is to prevent taking more than half a stack or double robbing a victim. More than one player within said Criminal Group may commit robbery but they must ensure there aren't multiple people looking through a single victim's pockets.
+
 
 - Backpacks and handbags can be taken, including everything inside
 
@@ -580,7 +585,7 @@ Example: Carrying a carcano and a Revolver and those guns can't be robbed. Carry
 - The Security Team employed by the train company should be the group protecting the train from being robbed but can pull from passengers to make a full 6 man if needed
 
 ​
-Prison Break/Prison Transport Guidelines:
+# Prison Break/Prison Transport Guidelines:
 
 ​
 - When breaking someone from prison or a transport, your group should not exceed the limit of 6 including those you are breaking free. Unless the people you are breaking free remain non-combatants the entire time you have more than 6 in your group
