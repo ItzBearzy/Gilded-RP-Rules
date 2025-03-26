@@ -534,7 +534,13 @@ Failure to comply is a direct violation of the Voice ID rule and constitutes pow
 - You can only take half of each item stack in someone's inventory. Single items can be taken.
 
 
-- You must leave any player you are robbing with a longarm and a sidearm
+- You must leave any player you are robbing with at least one long gun(bows included) and one sidearm. Carrying more than two firearms/bows opens you up to being robbed of all weapons.
+
+
+- You can have one sidearm and one longarm, any more guns and it opens you up to being robbed of all weapons.
+
+
+Example: Carrying a carcano and a Revolver and those guns can't be robbed. Carry a Carcano and two revolvers and all weapons can be robbed.
  
 
 - Do not rob new starting players of their starter money. If you were robbed of your starting cash, open a ticket.
@@ -1190,6 +1196,3 @@ Prison Break/Prison Transport Guidelines:
 # Erotic Roleplay and Consent:
 
 #### Keep it private!
-
-
-
