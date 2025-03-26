@@ -534,7 +534,7 @@ Failure to comply is a direct violation of the Voice ID rule and constitutes pow
 - You can only take half of each item stack in someone's inventory. Single items can be taken.
 
 
-- You must leave any player you are robbing with at least one long gun(bows included) and one sidearm. Carrying more than two firearms/bows opens you up to being robbed of all weapons.
+- You must leave any player you are robbing with at least one long gun(bows included) and one sidearm. Carrying more than one long arm and one side arm or two weapons of the same type opens you up to being robbed of all weapons.
 
 
 - You can have one sidearm and one longarm, any more guns and it opens you up to being robbed of all weapons.
