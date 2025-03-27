@@ -491,8 +491,6 @@ Here are some examples of RDM or Random DeathMatch:
 
 - Once hogtied, players should not break out of the ropes. Players should never break out of hogties while in an active scene with their captor(s), while being carried, or when on the back of a horse
 ​
-
-- When using ropes, do not use the instant hogtie command to rope someone, unless you have an ally with a gun to the target's head. If alone, toss the lasso, which allows for counterplay.
 ​
 
 - You can't break free from a hogtie unless loosened or left for 5 minutes alone and unattended.
