@@ -1003,6 +1003,9 @@ Examples:
 - Employees, and Criminals, cannot steal from business storages or ledgers.
 
 
+- Before selling a business IC you need to make a ticket to obtain its max sell value. Not complying with this will result in removal of business and may prevent future ownership of new businesses
+
+
 - If someone has you hogtied and wants your “key” to your built door, you must open the door for them. 
  
 
