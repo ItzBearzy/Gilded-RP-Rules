@@ -651,8 +651,7 @@ Examples:
 - Value your life and the lives of those your character would value (Law with innocents/hostages, your friends and acquaintances etc).
 
 
-- In 1v1 and 1v2 situations, the victim is allowed to defend themselves reasonably if they see an opening. Record your gameplay!
-
+- In 1v1 and 1v2 situations, the victim is allowed to defend themselves reasonably if they see an opening. This means, the gun is lowered or pointed away, giving you an opening. If a gun is held to you, there is no opening for you to draw. Record your gameplay!
 
 - This does not allow firing without verbal interaction and an initial compliance and acknowledgement to the scene.
 
