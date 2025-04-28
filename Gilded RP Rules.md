@@ -36,7 +36,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - You are expected to remain in character and not talk ooc the entire time you are logged into the server.
 
-- While in character, all communication must remain within the server at all times to ensure immersion and consistency. The only exception is participating in calls with individuals who are not part of the server, as this does not interfere with in-server interactions
+- While in character, all communication must remain within the server at all times to ensure immersion and consistency. You may not be in a third party voice call with anyone who is currently in server. The only exception is participating in calls with individuals who are not part of the server, as this does not interfere with in-server interactions
 
 - Staff is dedicated to providing a positive and enjoyable experience for everyone within the community.
  
