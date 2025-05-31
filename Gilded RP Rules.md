@@ -674,14 +674,9 @@ Examples:
 # Body Dumping:
 
 
-- Players are prohibited from dumping bodies within water.
-
-
-- Do not double drop bodies, eg. dropping a body and pretending to leave hoping they call a doc then you go move them again. This is power gaming. NO EXCEPTIONS. If you need to drop a body in an unintended location even temporarily, that still counts as your drop if you step away from that body, as they assume it’s safe to call a doctor.
-
+- Players are prohibited from dumping bodies, the only exception to moving a body is moving them to a doctor's office, or somewhere to be revived.
 
 - You cannot camp a body waiting for a doctor to show up.
-
 
 # Body Camping:
 
