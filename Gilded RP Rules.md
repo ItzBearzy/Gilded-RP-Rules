@@ -350,7 +350,7 @@ Exception: If the description mentions visible text or enscriptions (e.g., "Jane
 
 - Robbing or shooting someone in any kind of menu.
 
-- When using handcuffs, the person you are handcuffing must have their hands raised in surrender or if you're physically behind them. Instantly handcuffing someone without roleplay or proper buildup may also be seen as RDM or Low-Tier Initiation. 
+- When using handcuffs, the person you are handcuffing must be aware that they are going to be cuffed. Instantly handcuffing someone without roleplay or proper buildup may also be seen as RDM or Low-Tier Initiation. 
 
 - Getting on a horse while handcuffed and riding off is powergaming.
 
