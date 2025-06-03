@@ -332,9 +332,7 @@ Exception: If the description mentions visible text or enscriptions (e.g., "Jane
 
 - The use of in-game exploits to gain advantages over other players or to give your character advantages is strictly prohibited.
 
-
 - Exploiting bugs or any other cheat will result in you being banned from the server.
-
 
 - If you find a bug or something that is considered an exploit, bring it to the staff's attention immediately. Not reporting this is grounds for a ban.
 
@@ -346,27 +344,23 @@ Exception: If the description mentions visible text or enscriptions (e.g., "Jane
 
 - Putting a camp storage or chest right next to where you are mining or farming can be powergaming if you “teleport” goods by moving your camp and skipping the use of a wagon.
 
-
 - Dismissing your cart or horse to keep its inventory from getting robbed is powergaming.
-
 
 - Whistling for your horse that someone stole from you to bring it back is powergaming.
 
-
 - Robbing or shooting someone in any kind of menu.
 
+- When using handcuffs, the person you are handcuffing must have their hands raised in surrender or if you're physically behind them. Instantly handcuffing someone without roleplay or proper buildup may also be seen as RDM or Low-Tier Initiation. 
 
 - Getting on a horse while handcuffed and riding off is powergaming.
 
-
 - Being AFK in an open area or on an interactable object is powergaming. If you need to leave to do something OOC, log out, or find a secure, out of the way hiding spot and return as soon as possible.
-
 
 - Tackling/pushing/roping a player who has a gun pointed at you is powergaming. You would realistically be shot in the head!
 
-- Commiting a crime and using a boat teleport within 30 minutes of said crime
+- Commiting a crime and using a boat teleport within 30 minutes of said crime.
 
-- Fake deaths must be approved by the admin team through a ticket
+- Fake deaths must be approved by the admin team through a ticket.
 
  
 # Hostile Roleplay Rules:
@@ -476,9 +470,6 @@ Here are some examples of RDM or Random DeathMatch:
 - A judge can pursue a life sentence for prison in a case if significant RP has taken place to warrant it, but this must be approved by staff where a discussion is held with the player facing life in prison
 
 
-- Escaping Sisika grants an automatic wanted status and means being caught will grant a remand
- 
-
 # Ropes/Bindings:
 
 - Ropes and Bindings are powerful tools in roleplay. Players using tools to restrain others, and those properly restrained should abide by the restrictions presented here.
@@ -587,7 +578,7 @@ Examples:
 - When breaking someone from prison or a transport, your group should not exceed the limit of 6 including those you are breaking free. Unless the people you are breaking free remain non-combatants the entire time you have more than 6 in your group
  
 
-- Sisika prison break attempts with larger groups can be approved by Admin.
+- Sisika prison break attempts with larger groups must be approved by Admin.
  
 
 # Group Robbery Limits:
@@ -642,6 +633,8 @@ Examples:
 
 
 - Wagons can be stolen and ridden away, creating a chase with the owner. In a chase when the wagon owner, law, or vigilantes catch up, they must demand the wagon to stop, announcing themselves. If the wagon refuses to stop, gunplay is now live.
+
+- The above rules also apply for horse saddlebag robberies.
 
  
 # NVL / Fear RP 
