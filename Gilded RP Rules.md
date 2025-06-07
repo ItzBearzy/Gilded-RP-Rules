@@ -345,7 +345,7 @@ Here are some examples of RDM or Random DeathMatch:
 
 - Groups can roam around looking for trouble, or intent to attack a target, with 6 people. If you roam with masks on, you are considered “looking for trouble”. 
 
-- Sheriffs, Lawmen, Rangers, and Marshals can defend towns with up to 12 players. They cannot chase or respond to a robbery of any kind with more than 6.
+- Sheriffs, Lawmen, and Marshals can defend towns with up to 12 players. They cannot chase or respond to a robbery of any kind with more than 6.
 
 - When serving a warrant and attempting to arrest a suspect at a hideout or known gang residence, law can ride with 12 law members if approved by staff in a ticket.
 
