@@ -518,7 +518,7 @@ Examples:
 
 - Vigilantism is defined as entering a hostile situation to help or save someone in trouble, while not being lawfully permitted to do so.
 
-- Do not get involved in any scripted robbery(Bank, Store, Dock, Doctor, Fort, ect) if you are not a part of the active law or criminal group involved from the start. 
+- Do not get involved in any scripted robbery(Bank, Store, Dock, Doctor, Fort, ect) if you are not a part of the active law or criminal group involved. 
 
 - Helping someone in the wild is doable, but comes with risk. 
 
