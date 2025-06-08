@@ -145,7 +145,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
  
 # Voice ID:
 
-# Voice Identification Restrictions:
+## Voice Identification Restrictions:
 
 - When a player is wearing a face covering, you are not allowed to identify them using their voice alone. The mask must be removed to reveal their face for voice identification to be valid.
 
@@ -154,7 +154,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Always respect a player's identity claims, even if you have suspicions otherwise.
  
 
-# Mask Usage Rules:
+## Mask Usage Rules:
 
 - Masks used for criminal activities should only be worn when intending to commit crimes or during large-scale criminal activities such as store and bank robberies, or other law-alerting actions.
 
@@ -163,18 +163,13 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - If you wear a mask that is a significant part of your character's identity, you open yourself up to being identified by that mask. This means other players can recognize your character through this distinctive mask.
  
 
-# Multiple Characters Consideration:
+## Multiple Characters Consideration:
 
 - If a player is unmasked and insists they are not the person you think they are, respect their claim and move on.
 
 - Keep in mind that not all players can change their voice. Players may want to roleplay multiple characters using the same voice. Respect their choice to portray different characters even if the voice sounds familiar.
  
 
-# Historical Context:
-
-- Consider the historical setting of the game. Most criminals in the 1900s sought infamy rather than anonymity. This should be reflected in the roleplay dynamics regarding masks and identification.
-
- 
 # Submitting a Ticket:
 
 - Upon review of tickets, staff will take into consideration all accounts and weigh the effect it has on future roleplay. All conclusions are at staff's discretion. 
@@ -208,6 +203,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 ​
 # Role Play Terms & Definitions:
+
 # Harassment: 
 
 - No harassing other players; sexual or otherwise. Anything that leads to repeat aggressive pressure or borders on intimidation on an OOC level is against the server rules. This does not mean you can avoid RP conflicts or IC consequences, but if you have tried meaningful IC resolutions and still believe you are being harassed, open a ticket and staff can help advise or mediate.
@@ -252,7 +248,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Item names and descriptions are out-of-character information unless explicitly stated as visible in game. Only use information your character would realistically be able to see or read.
  
 
-# Example:
+## Example:
 
 - You pick up a "Personal Cookbook"
 
@@ -264,7 +260,6 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 Exception: If the description mentions visible text or enscriptions (e.g., "Jane's cookbook written on the front"), you can use that information in-character.
 
- 
 
 # Exploiting:
 
@@ -315,7 +310,7 @@ Here are some examples of RDM or Random DeathMatch:
 - Planning to shoot/commit violence on sight. This topic should be avoided in RP to prevent confusion.
 
 
-# Best practices for avoiding RDM:
+## Best practices for avoiding RDM:
 
 - Create a scene via roleplay prior to any violence being committed, and extend vocal roleplay as much as is reasonable for the scene. This means you should be having some sort of conversation prior to any weapons being fired.
 
@@ -360,13 +355,13 @@ Here are some examples of RDM or Random DeathMatch:
 ​
 # Green Zones:
 
-# Law Offices:
+## Law Offices:
 
 - You may not commit any form of criminal or violent RolePlay inside a law office during an arrest procedure.
 
 - This may not be used as a “shield” for law - if an active scene is going on and the sheriff runs inside for cover during a chase etc - this voids the safe zone.
 
-# Doctor Office:
+## Doctor Office:
 
 - You may not commit any form of criminal or violent Roleplay inside a doctor's office during a Medical RP scenario.
 
@@ -374,6 +369,7 @@ Here are some examples of RDM or Random DeathMatch:
 
  
 # Criminal Activity / Robberies:
+
 # In Character Consequences:
 
 - Remand can hold you in jail for multiple days at a time but requires a serious amount of crime like anarchy charges before you obtain one
@@ -630,7 +626,7 @@ Examples:
 ​
 # Medical Rules:
 
-# Injuries and Alerts:
+## Injuries and Alerts:
 
 
 - Injuries are common after conflict, and if you are knocked unconscious, calling a doctor may be necessary. Using /alertdoctor sends out a proximity alert to the closest doctors near you.
@@ -660,13 +656,13 @@ Examples:
 - Players that are down for a period exceeding 30 minutes within an active scene where doctors, law or other medical practitioners are on scene and not reviving you or providing full medical treatment are allowed to revive. All usual New Life Rules still apply.
  
 
-# Injury Guidelines:
+## Injury Guidelines:
 
 
 - As a helpful guide to assist with Role Playing injuries to varying magnitudes, we have provided the following table for day/time conversions between IRL and Server Days.
 
  
-# Time/Day Converter for County Days:
+### Time/Day Converter for County Days:
 
 1 Day IC = 60 Minutes IRL
 
@@ -699,7 +695,7 @@ Examples:
 - Every aspect of pregnancy and family RP needs to be clearly agreed upon by both parents involved and consented to before any RP involving Pregnancy happens. This means the length of time they wish to RP it out, the number of children, etc.
 
 ​
-# Players interested in Roleplaying a Pregnancy must abide by the following guidelines:
+## Players interested in Roleplaying a Pregnancy must abide by the following guidelines:
 
 
 - Pregnancy has a minimum duration of 3 Weeks. Do not roleplay pregnancy loss. 
@@ -735,7 +731,7 @@ Examples:
 - 12 v 12 is allowed only when a ticket with staff is made and approved with both party leaders law vs gang or gang vs gang and staff.
 
  
-# Gang Strikes:
+## Gang Strikes:
 
 - Every gang is limited to 3 active gang strikes. After receiving 3 gang strikes, a gang will lose all gang privileges, such as:
  
@@ -755,20 +751,20 @@ Examples:
 # Miscellaneous Rules:
 
 
-# Law & Politics:
+## Law & Politics:
 
  
 - In all regions, characters cannot hold both a position in law/army and a government position. If elected or appointed the character is required to resign. A region is defined as the USA, Mexico, and Guarma. Jurisdictions within these regions would apply to this rule as well.
 
 ​
-# Sisika Roleplay:
+## Sisika Roleplay:
 
 - Do not break into Sisika to sell goods, perform jobs, or engage in similar activities. This is a maximum-security institution, and unannounced visitors will be treated as a serious security threat. Realistically, this would result in being shot or otherwise severely dealt with. This will be considered as a No Value for Life rulebreak.
 
 - Attacking Guards or Lawmen within Sisika without justification—such as self-defense or a valid roleplay scenario—will also be considered an NVL rulebreak. Sisika is a high-security prison, and any unwarranted aggression against officials inside its grounds is treated as an extreme disregard for life.
 
 ​
-# Smuggling:
+### Smuggling:
 
 - Smuggling only to happen at night, into the secret Dead Drop location.
 
@@ -779,7 +775,7 @@ Examples:
 - Chests and Storage hidden around Sisika will be destroyed, no questions asked.
 
 
-# Prison Breaks:
+### Prison Breaks:
 
 
 - Prison breaks remain only approved via ticket.
