@@ -2,11 +2,11 @@
 
 - Personal insults and/or verbal attacks outside of specific role play situations and all forms of harassment are prohibited and will result in a ban.
 
-
 - Racism, Homophobia, Transphobia, Sexism, Hate Speech, and all forms of targeted, derogatory, or abusive language will not be tolerated and will result in a permanent ban.
 
- 
 - Gilded RP is set in an alternate universe from real life. In this universe slavery does not exist, thus any type of roleplay involving slavery is prohibited.
+
+- The Quiz to get whitelisted into the server is in game, please join the game to take the quiz!
 
 
 *Scroll down to the bottom to view a video of someone reading the rules to you*
