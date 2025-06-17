@@ -6,7 +6,7 @@
 
 - Gilded RP is set in an alternate universe from real life. In this universe slavery does not exist, thus any type of roleplay involving slavery is prohibited.
 
-- The Quiz to get whitelisted into the server is in game, please join the game to take the quiz!
+- The application to be whitelisted is in the Roles and Applications channel on the discord!
 
 
 *Scroll down to the bottom to view a video of someone reading the rules to you*
@@ -43,8 +43,8 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Rules as written and rules as intended are both valid aspects that staff will consider during any disciplinary action in regard to any rule, policy,  or rule enforcement.
 
 
-
 # Roleplay over Gunplay
+
 
 ## Low-Tier Initiation is Considered RDM
 
@@ -60,7 +60,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - A group ambushes another with weapons and opens fire without any verbal warning or attempt at roleplay.
 
-
 ## What Is NOT Considered RDM
 
 - A player draws their gun and aims it at another in a robbery, giving clear demands (e.g., "Hands up and don’t try anything, or you’ll regret it.").
@@ -71,13 +70,11 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - A player shoots in self-defense after another character threatens or initiates violence against them first, only when there is opportunity to do so (guns are lowered).
 
-
 ## Clarification on Gunplay
 
 - Gunplay should not be the first method of conflict resolution. Characters should attempt meaningful roleplay interactions before resorting to violence, ensuring depth in character interactions and storytelling.
 
 - Roleplay over Rules - This means that you should maintain your RP to be as immersive as possible even in the face of rule breaks
-
 
 ## Character Guidelines
 
@@ -153,7 +150,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Always respect a player's identity claims, even if you have suspicions otherwise.
  
-
 ## Mask Usage Rules
 
 - Masks used for criminal activities should only be worn when intending to commit crimes or during large-scale criminal activities such as store and bank robberies, or other law-alerting actions.
@@ -162,7 +158,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - If you wear a mask that is a significant part of your character's identity, you open yourself up to being identified by that mask. This means other players can recognize your character through this distinctive mask.
  
-
 ## Multiple Characters Consideration
 
 - If a player is unmasked and insists they are not the person you think they are, respect their claim and move on.
@@ -247,7 +242,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Item names and descriptions are out-of-character information unless explicitly stated as visible in game. Only use information your character would realistically be able to see or read.
  
-
 ## Example
 
 - You pick up a "Personal Cookbook"
