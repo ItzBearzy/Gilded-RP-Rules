@@ -326,7 +326,11 @@ Here are some examples of RDM or Random DeathMatch
 
 - Holding someone up or immediately attacking someone out of one of these exits is strictly prohibited. Allow any party exiting the ability for counterplay (to gain cover or re-enter/exit the building), as per the RDM Rules and Guidelines.
 
-- When riding with more than 6 people in a group, the 6 active shooters must be designated before setting out for a trip
+- Criminals/groups are expected to ride around with no more than 6 people when doing any criminal activity.
+
+- You can only ride around with more than 6 people if you are not hostile, not masked and not seeking criminal activity
+
+- Engaging a ranch that has more than 6 people there is as at your own risk, ranches can defend with up to 12 people
 
 - Saint Denis and Blackwater have fully manned law offices whether you see a single player there or not.
 
@@ -345,6 +349,20 @@ Here are some examples of RDM or Random DeathMatch
 - You cannot hold someone hostage for longer than 20 minutes before starting the robbery you have planned.
 
 - In Hostile RP, leaving Line of Sight on your victim or aggressor for 5 minutes means the scene is considered over and proper Roleplay engagement must commence to create a new scene.
+
+## Scene Specific Limits are what a group/gang/law can bring to each event type
+
+- Drug Selling: 3 criminals with 3 law responding
+
+- Store Robberies: 4 criminals with 4 law responding
+
+- Pharmacy Robberies: 4 criminals with 4 law responding
+
+- Post Office Robberies: 4 criminals with 4 law responding
+
+- Bank Robberies: 6 criminals with 8 law responding
+
+- Fort Robberies: 6 criminals with 10 law responding
 
 ​
 # Green Zones
