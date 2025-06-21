@@ -328,7 +328,7 @@ Here are some examples of RDM or Random DeathMatch
 
 - Criminals/groups are expected to ride around with no more than 6 people when doing any criminal activity.
 
-- You can only ride around with more than 6 people if you are not hostile, not masked and not seeking criminal activity
+- You can only ride around with more than 6 people if you are not hostile and not seeking criminal activity
 
 - Engaging a ranch that has more than 6 people there is as at your own risk, ranches can defend with up to 12 people
 
@@ -338,7 +338,7 @@ Here are some examples of RDM or Random DeathMatch
 
 - Groups can roam around looking for trouble, or intent to attack a target, with 6 people. If you roam with masks on, you are considered “looking for trouble”. 
 
-- Sheriffs, Lawmen, and Marshals can defend towns with up to 12 players. They cannot chase or respond to a robbery of any kind with more than 6.
+- Sheriffs, Lawmen, and Marshals can defend towns with up to the scene limits. If a bank alert comes in they can respond with 8, if a fort alert comes in they can respond with 10.
 
 - When serving a warrant and attempting to arrest a suspect at a hideout or known gang residence, law can ride with 12 law members if approved by staff in a ticket.
 
@@ -354,11 +354,13 @@ Here are some examples of RDM or Random DeathMatch
 
 - Drug Selling: 3 criminals with 3 law responding
 
-- Store Robberies: 4 criminals with 4 law responding
+- Store Robberies: 4 criminals with 5 law responding
 
-- Pharmacy Robberies: 4 criminals with 4 law responding
+- Pharmacy Robberies: 4 criminals with 5 law responding
 
-- Post Office Robberies: 4 criminals with 4 law responding
+- Post Office Robberies: 4 criminals with 5 law responding
+
+- Moonshining: 6 criminals with 6 law responding
 
 - Bank Robberies: 6 criminals with 8 law responding
 
