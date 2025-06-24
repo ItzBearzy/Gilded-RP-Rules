@@ -284,7 +284,7 @@ Exception If the description mentions visible text or enscriptions (e.g., "Jane'
 
 - Tackling/pushing/roping a player who has a gun pointed at you is powergaming. You would realistically be shot in the head!
 
-- Commiting a crime and using a boat teleport/hideout teleport/any teleport within  minutes of said crime.
+- Commiting a crime and using a boat teleport/hideout teleport/any teleport within 30 minutes of said crime.
 
 - Fake deaths must be approved by the admin team through a ticket.
 
