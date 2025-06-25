@@ -412,7 +412,7 @@ Here are some examples of RDM or Random DeathMatch
 
 Failure to comply is a direct violation of the Voice ID rule and constitutes power-gaming, as it deliberately prevents identification, pursuit, or retaliation. This rule is strictly enforced, and violations will result in immediate consequences.
 
-- You cannot commit any crime that involves a Law Alert 30 minutes before or 15 minutes after restart.
+- You cannot commit any crime 30 minutes before after restart.
 
 - Law alerts are crimes such as; grave robbing, banks, drug sales, fort robbery, law training, etc. You are still able to rob people within those time constraints.
 
