@@ -506,7 +506,7 @@ Examples
 # Wagon and Horse Saddlebag Robberies
  
 ​
-- You must RP with the person driving the wagon/riding the horse to rob it, dont just rob wagons sitting around without providing RP.
+- You must RP with the person driving the wagon/riding the horse to rob it, don't just rob wagons/saddlebags sitting around without providing RP.
 
 - Wagons/Horses have no stack limits for robberies. Robbing the wagon means you forgo the robbery of the rider or passengers.
 
