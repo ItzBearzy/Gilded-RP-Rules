@@ -805,21 +805,25 @@ Examples
 ​
 # Businesses and Homes
 ​
-- Staff reserves the right to remove your business due to inactivity. Make a ticket if you are on an extended trip, or concerned regarding business repossession.
-
-- If the business is inactive, or players have not logged in for a period of 3 weeks (21 days), staff will repossess your business, UNLESS you have submitted a ticket to explain your situation to staff regarding an extended absence.
+- Staff reserves the right to remove your business due to inactivity for a period of 30 days. Make a ticket if you are on an extended trip, or concerned regarding business repossession.
 
 - Employees, and Criminals, cannot steal from business storages or ledgers.
   
-- Before selling a business IC you need to make a ticket to obtain its max sell value. Not complying with this will result in removal of business and may prevent future ownership of new businesses
+- Before selling a business IC, you are REQUIRED make a ticket with the proper paperwork. Not complying with this will result in removal of business and may prevent future ownership of new businesses.
+
+- Business owners are required to own their business for 90 days before selling. Once a business is sold, business owners must wait 30 days before applying for another business.
+ 
+- Players are limited to One Business per player. You may not own multiple businesses and have managers run them. This also includes popup shops. Owners cannot own a whitelisted business and a popup shop at the same time.
+
+- Popup shops cannot be privately sold. New owners will need to go through government process to obtain a new popup shop token.
+ 
+- Multiple businesses may be owned by a family or a group (Limited to one per type), each with their own unique owners per business.
+
+Please refer to the Business tab for more information.
 
 - If someone has you hogtied and wants your “key” to your built door, you must open the door for them. 
- 
-- Players are limited to One Business per player. You may not own multiple businesses and have managers run them.
-​
+
 - Players are limited to One Home per Player. Alternate characters can live within homes, but players cannot own more than 1 home.
- 
-- Multiple businesses may be owned by a family or a group(Limited to one per type), each with their own unique owners per business.
 
 
 # Multi Job Rules
