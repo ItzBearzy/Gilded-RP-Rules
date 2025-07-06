@@ -6,8 +6,8 @@ Interested in owning a business in Gilded? This guide will break down the SOPs f
 
 ## 🔹 Resources for Businesses
 
-- **Public Record of Business Owners & Business Prices:** http://bit.ly/3Tc7Fwi
-- **Business Customs Pricing:** http://bit.ly/4nryQ46
+- **Public Record of Business Owners & Business Prices:** https://bit.ly/public-grant-record
+- **Business Customs Pricing:** https://bit.ly/grant-bus-pricing
 
 ---
 

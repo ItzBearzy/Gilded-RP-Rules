@@ -801,7 +801,7 @@ Examples
 - Sisika prison break attempts with larger groups must be approved by Admin.
 
 ​
-# Businesses and Homes
+### Businesses and Homes
 ​
 - Staff reserves the right to remove your business due to inactivity for a period of 30 days. Make a ticket if you are on an extended trip, or concerned regarding business repossession.
 
