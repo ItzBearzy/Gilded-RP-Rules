@@ -53,7 +53,7 @@ We have only a few restrictions regarding items:
 - **Ownership Limit:** You are required to own your business for at least 90 days before a business is sold or transferred. As stated in the rules, if you sell/transfer your business before your 90 days, you will be blacklisted from owning another business.
     - If you sell your business, you are required to wait 30 days before applying for a new business.
 - **Private Sale of Business:** Businesses have set prices that must be paid out to the predecessor. You may not over pay or under pay for the business, and you are required to submit documentation in a ticket.
-- **Private Transfer of Business:** Transfers must be documented in a ticekt with the proper paperwork.
+- **Private Transfer of Business:** Transfers must be documented in a ticket with the proper paperwork.
 - **Last Wills & Business:** Businesses cannot be added into your wills. If a character dies, their business will either go to their most active employee or it will go back into applications if said employee owns a business already.
 
 ---
