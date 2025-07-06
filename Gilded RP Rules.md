@@ -817,6 +817,8 @@ Examples
  
 - Multiple businesses may be owned by a family or a group (Limited to one per type), each with their own unique owners per business.
 
+- Businesses cannot be added into wills. If you currently have it where your business is in your will, please work with your lawyer IC to adjust it.
+
 Please refer to the Business tab for more information.
 
 - If someone has you hogtied and wants your “key” to your built door, you must open the door for them. 
