@@ -352,6 +352,8 @@ Here are some examples of RDM or Random DeathMatch
 
 ## Scene Specific Limits are what a group/gang/law can bring to each event type
 
+> **Note:** The **Negotiator is included** in the total number listed below and does **not** count as an additional +1.
+
 - Drug Selling/Crate Robbery: 3 criminals with 3 law responding
 
 - Store Robberies: 4 criminals with 5 law responding
