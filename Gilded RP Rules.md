@@ -885,93 +885,69 @@ Please refer to the Business tab for more information.
 # BUILDING and CAMP RULES
 
 
-- The Camping Authority will remove non-compliant camps or buildings without warning.
+- The Camping Authority will remove non-compliant camps or builds without warning.
 
 - No refunds or reimbursement for lost items.
 
 - It is YOUR responsibility to follow these guidelines.
 
+- Camps and Storages will be removed by the Housing Authorities without warning if left unused/inactive for 3 Weeks
+
 
 # 1. General Camp and Build Rules
-
-- Camps must fit into the Red Dead world, no treehouses, platform structures, or excessive builds.
-
-- Camps should be simple and realistic tents, basic camp decor, 4 storage items, and 3 lighting items. That is the limit.
-
-- One small foundation is allowed if needed for flat ground, not more than 1ft off the ground if absolutely necessary.
-
-- Fences, walls, roofing, and doors are banned outright for camps and towns unless permitted by staff.
-
-- No using objects to fake a roof, wall, or block tent entrances.
-
-
-# 2. Restricted and Prohibited Build Areas
-
-
-- DO NOT camp or build in Wildlife Preserves, Historic Sites, or Legendary Hunt Areas.
-
-- Historic Sites = Ruins, burned-down buildings, pre-placed game camps, stone walls, or unique landmarks like the Giant Tree north of Blackwater or the tiny church in Lemoyne.
-
-- DO NOT build on cliffs, mountains, bodies of water, or create floating structures.
-
-- DO NOT build in towns, ONLY business owners may place up to 4 storage items inside their business.
-
-- DO NOT block public roads, pathways, entrances, exits, or access to any public or private area.
-
-
-# 3. Camp Limits and Item Restrictions
-
 
 ## Camps must remain simple, consisting of
 - Tents (maximum of 4 per camp)
 
 - Basic camp-appropriate furniture (e.g., cots, campfire, chairs/benches)
 
-- One small (if necessary for flat ground, not more than 1ft off the ground if absolutely necessary)
+- One small foundation (if necessary for flat ground, not more than 1ft off the ground if absolutely necessary)
 
-- 4 storage items
+- 4 storage items, Storage tents count as a storage!
 
-- Lighting (within permitted limits, see Section 5)
+- Lighting (within permitted limits, see Section 2)
 
 - One camp per person.
 
-- Maximum 20 items per camp (includes lighting, tents, storage, camp furniture, and decor).
+- Maximum 20 items per camp (includes lighting, tents, storage, camp furniture, and decor)
     
-- Beams can only support the underside of a foundation, NOT be placed above it.
+- Placing a Camp or Storages in or around Mining Locations "Public or Hidden" will be removed without warning!
 
 
-# 4. Storage and Lighting Limits
+# 2. Storage and Lighting Limits
 
 
 - Maximum 4 storage items per camp/property. Use Space Bar storage for businesses or private property if more is needed.
 
-- Maximum 3 light-emitting objects per area or across the map.
+- Do not place more than 5 Light Emitting Object per area or across the map.
 
-- Each tent may have up to 2 light-emitting objects.
-
-- Business owners may place up to 4 storage items inside their business.
+- Business owners may place up to 4 storage items inside or around their businesses.
 
 
-# 5. Placement and Space Rules
+# 3. Placement and Space Rules
 
 
-- Camps must be spaced out; if an area is occupied, move elsewhere.
+- Camps must be spaced out, if an area is occupied "within Shouting Range" move elsewhere
 
 - Do not block access to pathways, roads, towns, camps, tents, entrances, exits, or any public or private area.
 
+- Dont camp directly next to roads or private property
+
 - Trespass signs are for private property only and cannot be used to claim a campground.
 
+- Fences, walls, roofing, and doors are banned outright for camps and towns unless permitted by staff
 
-# 6. Enforcement and Removal
+- Beams can only support the underside of a foundation, NOT be placed above it
 
 
-- Unauthorized builds will be removed without warning.
+# 4. Restricted and Prohibited Build Areas
 
-- Camps and storage left inactive for 3 weeks will be removed.
 
-- Items may be moved into a chest with a notice attached, but failure to act on the notice will result in demolition.
+- DO NOT camp or build in Wildlife Preserves, Historic Sites, or Legendary Hunt Areas.
 
- 
+- Historic Sites = Ruins, burned-down buildings, pre-placed game camps, stone walls, or unique landmarks like the Giant Tree north of Blackwater or the tiny church in Lemoyne.
+
+
 # Appearance
 
 
