@@ -911,7 +911,7 @@ Please refer to the Business tab for more information.
 
 - Maximum 20 items per camp (includes lighting, tents, storage, camp furniture, and decor)
     
-- Placing a Camp or Storages in or around Mining Locations "Public or Hidden" will be removed without warning!
+- Placing a Camp or Storages in or around Mining Locations/Caves "Public or Hidden" will be removed without warning!
 
 
 # 2. Storage and Lighting Limits
